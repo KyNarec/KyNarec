@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋</h1>
+<h1>
+    Hi 👋
+</h1>
+
 <h3 align="left">🔭 I'm a high school student and linux enthusiast with great interest in coding and general tech</h3>
 
 <h3 align="left">🌱 I don't have a primary programming language, but i'm familiar with:</h3>
@@ -10,3 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kynarec&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="kynarec" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kynarec&theme=tokyonight&hide_border=true" alt="kynarec" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyNarec&theme=tokyonight" alt="kynarec" />
+</p>
